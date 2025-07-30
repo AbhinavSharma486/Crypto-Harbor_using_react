@@ -4,9 +4,7 @@ A modern, responsive cryptocurrency tracking web application built with React.js
 
 ## 🚀 Live Demo
 
-- **Live Demo on netlify**: [https://crypto-harbor-using-react.netlify.app/](https://crypto-harbor-using-react.netlify.app/)
-
-- **Live Demo on vercel**: [https://crypto-harbor-cv05frlog-abhinavsharma486.vercel.app/](https://crypto-harbor-cv05frlog-abhinavsharma486.vercel.app/)
+- **Live Demo on vercel**: [https://crypto-harbor.vercel.app/](https://crypto-harbor.vercel.app/)
 
 ## 📋 Table of Contents
 
